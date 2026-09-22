@@ -1,0 +1,6 @@
+{
+  "name": "Secure Wallet Portal",
+  "description": "Interactive administrator authentication and Kenyan Shilling (KSh) wallet withdrawal system based on Python financial access logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
